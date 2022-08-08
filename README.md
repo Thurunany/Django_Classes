@@ -1,1 +1,2 @@
-# Django projects made for programming classes of 2020.
+# Django project
+[Classes of 2020](https://youtube.com/playlist?list=PL6u1VNwqZdJZT5lCMbBQA1UHVWy0FOYOl)
